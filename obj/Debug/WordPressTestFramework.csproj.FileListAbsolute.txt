@@ -1,0 +1,16 @@
+E:\LaurieSpace\myInstructorWorld\IntroCSharpSelenium\Exercises\Selenium\TestFramework\bin\Debug\TestFramework.dll
+E:\LaurieSpace\myInstructorWorld\IntroCSharpSelenium\Exercises\Selenium\TestFramework\bin\Debug\TestFramework.pdb
+E:\LaurieSpace\myInstructorWorld\IntroCSharpSelenium\Exercises\Selenium\TestFramework\bin\Debug\WebDriver.dll
+E:\LaurieSpace\myInstructorWorld\IntroCSharpSelenium\Exercises\Selenium\TestFramework\bin\Debug\WebDriver.Support.dll
+E:\LaurieSpace\myInstructorWorld\IntroCSharpSelenium\Exercises\Selenium\TestFramework\obj\Debug\TestFramework.dll
+E:\LaurieSpace\myInstructorWorld\IntroCSharpSelenium\Exercises\Selenium\TestFramework\obj\Debug\TestFramework.pdb
+C:\Users\dlim7\Documents\teacherRef\TestFramework\bin\Debug\TestFramework.dll
+C:\Users\dlim7\Documents\teacherRef\TestFramework\bin\Debug\TestFramework.pdb
+C:\Users\dlim7\Documents\teacherRef\TestFramework\bin\Debug\WebDriver.dll
+C:\Users\dlim7\Documents\teacherRef\TestFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\dlim7\Documents\teacherRef\TestFramework\bin\Debug\WebDriver.xml
+C:\Users\dlim7\Documents\teacherRef\TestFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\dlim7\Documents\teacherRef\TestFramework\obj\Debug\WordPressTestFramework.csproj.CoreCompileInputs.cache
+C:\Users\dlim7\Documents\teacherRef\TestFramework\obj\Debug\WordPressTestFramework.csproj.CopyComplete
+C:\Users\dlim7\Documents\teacherRef\TestFramework\obj\Debug\TestFramework.dll
+C:\Users\dlim7\Documents\teacherRef\TestFramework\obj\Debug\TestFramework.pdb

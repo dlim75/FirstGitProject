@@ -1,0 +1,6 @@
+E:\LaurieSpace\myInstructorWorld\IntroCSharpSelenium\Exercises\Selenium\TestFramework\bin\Debug\TestFramework.dll
+E:\LaurieSpace\myInstructorWorld\IntroCSharpSelenium\Exercises\Selenium\TestFramework\bin\Debug\TestFramework.pdb
+E:\LaurieSpace\myInstructorWorld\IntroCSharpSelenium\Exercises\Selenium\TestFramework\bin\Debug\WebDriver.dll
+E:\LaurieSpace\myInstructorWorld\IntroCSharpSelenium\Exercises\Selenium\TestFramework\bin\Debug\WebDriver.Support.dll
+E:\LaurieSpace\myInstructorWorld\IntroCSharpSelenium\Exercises\Selenium\TestFramework\obj\Debug\TestFramework.dll
+E:\LaurieSpace\myInstructorWorld\IntroCSharpSelenium\Exercises\Selenium\TestFramework\obj\Debug\TestFramework.pdb
